@@ -2,7 +2,13 @@
     background-color: lavender;
 }
 
+nav {
+    font-size: 24px;
+    text-align: right;
+}
+
 p {
-    color: red;
-    font-size: 42px;
+    color: blue;
+    font-size: 24px;
+    text-align: left;
 }
