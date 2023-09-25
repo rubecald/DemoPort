@@ -32,12 +32,23 @@ nav {
 
 h3 {
     z-index: 2;
-    background-color: rgba(90, 88, 85, 0.765) ;
-    color: rgb(223, 217, 217);
+    /* background-color: rgba(90, 88, 85, 0.765) ; */
+     color: rgb(223, 217, 217); 
     text-decoration-line: underline;
     text-decoration-thickness: 4px ;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family: cursive;
 }
 
+h4{
+    color: rgb(223, 217, 217); 
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family: cursive;  
+}
 
 p {
     color: rgba(255, 255, 255, 0.866);
@@ -53,5 +64,5 @@ p {
 }
 
 .home {
-    color: red;
+    /* color: red; */
 }
