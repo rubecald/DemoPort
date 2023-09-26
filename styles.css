@@ -86,3 +86,10 @@ li{
     z-index: 2;
     background-color: rgba(90, 88, 85, 0.765) ;   
 }
+
+label {
+    color: rgba(255, 255, 255, 0.866);
+    font-size: 24px;
+    text-align: left;
+    /* background-color: rgba(90, 88, 85, 0.765) ; */
+}
