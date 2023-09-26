@@ -11,6 +11,14 @@ body {
     display: block;
 }
 
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: 50px;
+    text-decoration-line: underline;
+    /* background-color: rgba(81, 76, 69, 0.765) ; */
+}
+
 nav {
     font-size: 24px;
     text-align: right;
@@ -55,14 +63,26 @@ p {
     font-size: 24px;
     text-align: left;
     z-index: 2;
+    background-color: rgba(90, 88, 85, 0.765) ;
     /* display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px; */
+}
+
+ul {
+    color: rgba(255, 255, 255, 0.866);
+    font-size: 20px;
+    text-align: left;
+    z-index: 2;
     background-color: rgba(90, 88, 85, 0.765) ;
 }
 
-.home {
-    /* color: red; */
+li{
+    color: rgba(255, 255, 255, 0.866);
+    font-size: 20px;
+    text-align: left;
+    z-index: 2;
+    background-color: rgba(90, 88, 85, 0.765) ;   
 }
